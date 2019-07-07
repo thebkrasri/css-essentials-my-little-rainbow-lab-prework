@@ -16,7 +16,7 @@ div {
   border-top-color: #ffa500;
 }
 #yellow { /* this selects any elements with the red id */
-  border-top-color: #f00;
+  border-top-color: #ff0;
 }
 #green { /* this selects any elements with the red id */
   border-top-color: #f00;
